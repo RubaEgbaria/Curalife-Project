@@ -2,4 +2,4 @@
 Website for a healthier life
 
 ## ONBOARDING Activity Diagram
-![image](https://user-images.githubusercontent.com/54721790/216174064-b7a0b19a-e1d2-4c27-8034-024b0307cf8a.png)
+![image](https://user-images.githubusercontent.com/54721790/216174587-1be307de-cda7-4ac9-a0d0-9ce7d64373a3.png)
